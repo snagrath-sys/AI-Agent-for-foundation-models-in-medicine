@@ -1,0 +1,6 @@
+streamlit>=1.24.0
+pillow
+requests
+torch>=2.0.0
+transformers>=4.30.0
+smolagents>=1.13.0
